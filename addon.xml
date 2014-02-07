@@ -12,14 +12,14 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language></language>
-    <summary lang="en">Listen to podcasts from the ABC Radio National network.
+    <summary lang="en">Stream video content avaliable from ABC Radio National TV.
     </summary>
-    <description lang="en">Radio National's vision and purpose is to nurture the intellectual and cultural life of this country, and to be a vital element of the contemporary Australian conversation. Radio National's vision and purpose is to nurture the intellectual and cultural life of this country, and to be a vital element of the contemporary Australian conversation.
+    <description lang="en">With 60 distinct programs each week, the Australian Broadcasting Corporation's Radio National is unique. It has become known as the Ideas Network, where people can hear the latest in science, books and publishing, religion, social history, the arts and current affairs. Most programs are podcast, and many are transcribed. There's a growing archive of past programs in transcript and downloadable audio format, free on our website. All programs are thoroughly researched and lovingly presented by some of Australia's leading broadcasters.
     </description>
     <license>The MIT License (MIT)</license>
     <forum>http://forum.xbmc.org/showthread.php?tid=184904</forum>
     <email>dtoumbourou@gmail.com</email>
-    <source>https://github.com/DamonToumbourou/plugin.audio.abcradionational.git</source>
+    <source>https://github.com/DamonToumbourou/plugin.video.abcradionational.git</source>
     <website></website>
   </extension>
 </addon>

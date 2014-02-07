@@ -9,8 +9,10 @@ def main_menu():
     video_data = abcradionational.get_podcasts()
 
     items = [{
-        'label': x['title'], 'thumbnail': x['thumb'],
+        'label': x['title'],
+        'thumbnail': x['thumb'],
         'path': url + x['url'],
+        'info': x['description'],
         'is_playable': True,
     } for x in video_data]
 
