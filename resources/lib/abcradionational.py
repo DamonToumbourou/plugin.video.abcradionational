@@ -19,7 +19,7 @@ def get_podcasts():
     
     info_out = []
     for info in infos:
-        if len(info.text) > 50: 
+        if len(info.text) > 50:
             info_out.append(info.text)
     
     thumb_sec = thumbs[1:36]
@@ -52,6 +52,5 @@ def get_podcasts():
 
     return output
 
-print get_podcasts()
 
 

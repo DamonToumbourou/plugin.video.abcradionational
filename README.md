@@ -1,4 +1,4 @@
-plugin.audio.abcradionational
+plugin.video.abcradionational
 =============================
 
-XBMC addon for audio podcasts from ABC Radio National 
+XBMC addon for video stream from ABC Radio National TV - RNTV 
