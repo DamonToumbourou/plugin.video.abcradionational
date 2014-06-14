@@ -4,3 +4,4 @@
 #version 1.0.2 - Fix index out of range error. 
 #version 1.0.3 - Rectify issue with the thumbs scraper.
 #version 1.0.4 - Updates to website scraper code.
+#version 1.0.5 - Make scraper more resilient to website updates
