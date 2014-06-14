@@ -1,7 +1,8 @@
-from xbmcswift2 import Plugin, xbmcgui
+from xbmcswift2 import Plugin
 from resources.lib import abcradionational
 
 plugin = Plugin()
+
 
 @plugin.route('/')
 def main_menu():
